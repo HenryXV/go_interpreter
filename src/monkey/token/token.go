@@ -37,6 +37,7 @@ const (
 	RBRACKET = "]"
 	LBRACE   = "{"
 	RBRACE   = "}"
+	COLON    = ":"
 
 	FUNCTION = "FUNCTION"
 	LET      = "LET"
